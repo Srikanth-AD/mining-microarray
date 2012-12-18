@@ -1,0 +1,38 @@
+INSTRUCTIONS TO COMPILE AND RUN THE PROGRAM
+===========================================
+
+Step 1: type in "make"
+Step 2: type in "java MiningMicroArray cc.data 1" to run task 1 and, "java MiningMicroArray cc.data 3" to run task 3
+
+
+
+Explanation of Steps 1 and 2,
+============================
+Step 1:	typing "make" will delete/remove any .class files if their corresponding .java sources are newer/updated.
+		if all the class files are current, you may see the message "make: Nothing to be done for `all' "
+		
+Step 2: typing "java MiningMicroArray cc.data 1" will run the "MiningMicroArray" java class for the data file named "cc.data" and, will perform task 1.
+		typing "java MiningMicroArray cc.data 3" will run the "MiningMicroArray" java class for the data file named "cc.data" and, will perform task 3.
+		
+Please note that during execution of the program, a few parameters like 'minimum support', 'minRatio' have to be provided by the user as input.
+
+
+Output files written to directory
+=================================
+
+entropy.data
+gene-maxgain-splitvalue.data
+numbered.data
+positivetuplesnumbered.data
+negativetuplesnumbered.data
+top-genes-numbered.data
+frequent_patterns_pos.data
+frequent_patterns_neg.data
+emerging_patterns_neg_pos.data
+emerging_patterns_pos_neg.data
+corr_genesets_neg.data
+corr_genesets_pos.data
+sorted_ep_avg_distance_neg.data
+sorted_ep_avg_distance_pos.data
+
+Please refer to the report.pdf file for detailed explanations of the data represented in each output file 
