@@ -20,6 +20,3 @@ Sample input file is available at cc.data
 
 ### Execution
 Refer to READ ME.txt
-
-#### Note
-I am not an expert in Java so, some of the code may be redundant.
