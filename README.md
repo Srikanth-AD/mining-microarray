@@ -21,9 +21,5 @@ Sample input file is available at cc.data
 ### Execution
 Refer to READ ME.txt
 
-#### Credits
-FP­‐growth algorithm implementation for Java has been obtained from ‘SPMF’.
-http://www.philippe-­‐fournier-­‐viger.com/spmf/index.php?link=documentation.php#growth
-
 #### Note
 I am not an expert in Java so, some of the code may be redundant.
